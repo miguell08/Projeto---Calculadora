@@ -1,0 +1,50 @@
+.conteiner{
+    background: #691010;
+    width: 600px;
+    height: 540px;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.caixa{
+    background: white;
+    width: 250px;
+    height: 40px;
+    margin-left: 170px;
+}
+
+#botão7{
+    background: white;
+    margin-top: 100px;
+    width: 60px;
+    height: 60px;
+    margin-left: 150px;
+}
+
+#botão8, #botão9, #botãomais{
+    background: white;
+    margin-top: 100px;
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+}
+
+#botão4, #botão1, #botãoC{
+    background: white;
+    margin-top: 20px;
+    width: 60px;
+    height: 60px;
+    margin-left: 150px;
+}
+
+#botão5, #botão6, #botãomenos, #botão2, #botão3, #botãovezes, #botão0, #botãoigual,#botãobarra{
+    background: white;
+    margin-top: 20px;
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+}
