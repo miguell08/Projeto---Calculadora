@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.interface{
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 5px;
+    
+}
+
+.visor{
+    height: 25px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+#tela{
+    height: 350px;
+    width: 450px;
+    padding: 30px;
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: rgb(102, 22, 22);
+}
+
+h1{
+    color: white;
+}
